@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hamzaabkhaliq
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning skills
-- 💞️ I’m looking to collaborate on webs
-- 📫 email or contact on 03037678643
+SQA - Automation - Agile
+WEB - HTML,CSS,PHP,DB,Wordpress
+GD - logo,Posters,Posts
+Software Engineer - 2022
+Email- Hamzakhaliq89@gmail.com
 
 <!---
 hamzaabkhaliq/hamzaabkhaliq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
